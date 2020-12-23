@@ -20,6 +20,10 @@ const help = () => {
 	'command : *!gtts*\n' +
 	'desc : convert text to speech/audio\n' +
 	'usage : *!gtts [cc] [text]*\nexample : *!gtts ja On2-chan*'
+
+__________________OBITO BOT____________________
+
+
 }
 
 exports.help = help
